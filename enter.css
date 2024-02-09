@@ -1,0 +1,12 @@
+html, body{
+    background-image: url(https://i.imgflip.com/5fcljo.gif);
+
+}
+a {
+    position: fixed; /* Đặt vị trí cố định */
+    bottom: 0; /* Đưa về phía dưới cùng */
+    right: 0; /* Đưa về góc phải */
+    margin: 0; /* Loại bỏ margin để không bị khoảng cách */
+    padding: 10px; /* Tăng khoảng cách để dễ đọc */
+    background-color: rgba(255, 255, 255, 0.5); /* Đặt màu nền với độ trong suốt */
+}
